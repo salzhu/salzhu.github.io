@@ -1,1 +1,3 @@
-This is the source code to Jon Barron's public academic website: https://jonbarron.info/. Feel free to clone this code for your own personal use.
+Source code for personal website: https://salzhu.github.io/. 
+
+Many thanks to Jon Barron for the [template](https://github.com/jonbarron/jonbarron.github.io)! 
